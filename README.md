@@ -1,6 +1,6 @@
 # EmailMarketing
 
-Official Website for **Email Marketing Campaign** for Distribuidora Realva & Industria Veterinaria S. de R.L.
+Official **Email Marketing Campaign** for Distribuidora Realva & Industria Veterinaria S. de R.L.
 
 ### Description
 
