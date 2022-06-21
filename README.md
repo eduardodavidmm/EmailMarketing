@@ -23,7 +23,7 @@ The following technologies were used for the development of the template:
 
 ### Design
 
-![Marketing](/img/ProductMarketing.jpg)
-![Marketing](/img/ProductMarketingTwo.jpg)
+![Marketing](Bravecto/img/ProductMarketing.jpg)
+![Marketing](Bravecto/img/ProductMarketingTwo.jpg)
 
 Developed by @github/eduardodavidmm
